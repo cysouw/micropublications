@@ -4,17 +4,17 @@ Originator: Microsoft Word 14
 ProgId: 'Word.Document'
 ...
 
-**title: Tagalog  HOW-questions**
+**title**: Tagalog  HOW-questions
 
-**creator****: Michael Cysouw**
+**creator**: Michael Cysouw
 
-**date****: 25 April 2014**
+**date**: 25 April 2014
 
-**subject****: HOW-questions**
+**subject**: HOW-questions
 
-**source****: http://glottolog.org/resource/reference/id/117594**
+**source**: http://glottolog.org/resource/reference/id/117594
 
-**rights****: CC-by**
+**rights**: CC-by
 
  
 
