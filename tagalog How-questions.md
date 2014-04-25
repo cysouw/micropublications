@@ -21,13 +21,34 @@ ProgId: 'Word.Document'
 Schachter, Paul, and Fe T. Otanes. *Tagalog Reference Grammar*.
 Berkeley: University of California Press, 1972.
 
-+-------------+-------------+-------------+-------------+-------------+-------------+
-| (1)         | *This*      | *is*        | *an*        | *example*   | *sentence*  |
-+-------------+-------------+-------------+-------------+-------------+-------------+
-|             | THIS        | IS          | AN          | EXAMPLE     | SENTENCE    |
-+-------------+-------------+-------------+-------------+-------------+-------------+
-            “This is a translation.” (p.345)
+<table>
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<tbody>
+<tr class="odd">
+<td align="left"><p>1</p></td>
+<td align="left"><p>This</p></td>
+<td align="left"><p>is</p></td>
+<td align="left"><p>an</p></td>
+<td align="left"><p>example</p></td>
+<td align="left"><p>sentence</p></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"><p>THIS</p></td>
+<td align="left"><p>IS</p></td>
+<td align="left"><p>AN</p></td>
+<td align="left"><p>EXAMPLE</p></td>
+<td align="left"><p>SENTENCE</p></td>
+</tr>
+</tbody>
+</table>
 
+            “this is the translation.”
  
 
 The various questions that are in English constructed using ‘how’ show
