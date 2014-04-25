@@ -21,6 +21,13 @@ ProgId: 'Word.Document'
 Schachter, Paul, and Fe T. Otanes. *Tagalog Reference Grammar*.
 Berkeley: University of California Press, 1972.
 
++-------------+-------------+-------------+-------------+-------------+-------------+
+| (1)         | *This*      | *is*        | *an*        | *example*   | *sentence*  |
++-------------+-------------+-------------+-------------+-------------+-------------+
+|             | THIS        | IS          | AN          | EXAMPLE     | SENTENCE    |
++-------------+-------------+-------------+-------------+-------------+-------------+
+            “This is a translation.” (p.345)
+
  
 
 The various questions that are in English constructed using ‘how’ show
