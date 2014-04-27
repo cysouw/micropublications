@@ -108,6 +108,7 @@ This then should look somewhat like an interlinear gloss, as shown below. Note t
 Das|ist|ein|interessanter|Satz.
 -|-|-|-|-
 DEM|COP|ART|interesting|sentence
+|||||
 
 "This is an interesting sentence." (p. 44)
 
@@ -115,6 +116,8 @@ DEM|COP|ART|interesting|sentence
 
 *Markdown example code:*
 
+    German Present person inflection:
+    
     PERSON | SING | PLUR
     ------ | ---- | ----
     1      | -e   | -en
@@ -122,6 +125,8 @@ DEM|COP|ART|interesting|sentence
     3      | -t   | -en
 
 *Type-setted version:*
+
+German Present person inflection:
 
 PERSON | SING | PLUR
 ------ | ---- | ----
