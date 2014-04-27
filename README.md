@@ -94,7 +94,7 @@ The whole idea of MPs is, that it should be the thoughts and interpretations, no
 **[Problem: tables in markdown]** Slightly problematically, basic markdown does not even include tables, but there are many different markdown-dialects that allow for simple tables (and I think linguists will want to have tables for interlinear glossing and for paradigms). For markdown, 'pipe-table' seem to be the most widely used extension of basic markdown. A simple glossed example in markdown might then look like this (the empty lines and the extra line between original and gloss unfortunately seem necessary in most implementations of markdown that I have tested):
 
 *Markdown example code:*
-    
+
     Das|ist|ein|interessanter|Satz.
     -|-|-|-|-
     DEM|COP|ART|interesting|sentence
@@ -114,15 +114,15 @@ DEM|COP|ART|interesting|sentence
 **[Only rectangular tables]** As a general rule: only make the aligned parts of a glossed example into a table (i.e. the first and second line). Do not include the translation into the table structure, as it will mess up the rectangular structure. If you want to add paradigms, also here do not change the basic table structure, i.e. do not try to make merged cells (e.g. to indicate syncretisms). Although that is possible in HTML ("rowspan"), it often leads to wrong results when converting to a different format. So, simply keep tables rectangular, and repeat forms in case of syncretisms/homophonies. For example the German present person inflection in markdown would look like this (this time trying to make the markdown look nicer, which is actually mostly unnecessary work):
 
 *Markdown example code:*
-    
+
     PERSON | SING | PLUR
     ------ | ---- | ----
     1      | -e   | -en
     2      | -st  | -en
-    3      | -t   | -en  
+    3      | -t   | -en
 
 *Type-setted version:*
-   
+
 PERSON | SING | PLUR
 ------ | ---- | ----
 1      | -e   | -en
