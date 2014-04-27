@@ -96,7 +96,7 @@ The whole idea of MPs is, that it should be the thoughts and interpretations, no
 *Markdown example code:*
 
     Das|ist|ein|interessanter|Satz.
-    -|-|-|-|-
+    ---|---|---|---|---
     DEM|COP|ART|interesting|sentence
     
     "This is an interesting sentence." (p. 44)
@@ -106,9 +106,8 @@ This then should look somewhat like an interlinear gloss, as shown below. Note t
 *Type-setted version:*
 
 Das|ist|ein|interessanter|Satz.
--|-|-|-|-
+---|---|---|---|---
 DEM|COP|ART|interesting|sentence
-|||||
 
 "This is an interesting sentence." (p. 44)
 
