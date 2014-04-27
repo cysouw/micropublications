@@ -164,5 +164,5 @@ Everybody has her/his own preferences and habits as to the usage of software in 
 
 Note: this paper was written in markdown and typeset into Xelatex using pandoc with minimal style tweaking, using only:
 
-    pandoc micropublications.md -f markdown -s -o micropublications.pdf
+    pandoc README.md -f markdown -s -o micropublications.pdf
     --latex-engine=xelatex -V mainfont="CharisSIL"
