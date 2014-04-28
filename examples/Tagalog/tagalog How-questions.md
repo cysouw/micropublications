@@ -4,51 +4,27 @@ Originator: Microsoft Word 14
 ProgId: 'Word.Document'
 ...
 
-**title**: Tagalog  HOW-questions
+---
 
-**creator**: Michael Cysouw
+title: Tagalog  HOW-questions
 
-**date**: 25 April 2014
+creator: Michael Cysouw
 
-**subject**: HOW-questions
+date: 25 April 2014
 
-**source**: http://glottolog.org/resource/reference/id/117594
+subject: HOW-questions
 
-**rights**: CC-by
+source: http://glottolog.org/resource/reference/id/117594
+
+rights: CC-by
+
+…
 
  
 
 Schachter, Paul, and Fe T. Otanes. *Tagalog Reference Grammar*.
 Berkeley: University of California Press, 1972.
 
-<table>
-<col width="16%" />
-<col width="16%" />
-<col width="16%" />
-<col width="16%" />
-<col width="16%" />
-<col width="16%" />
-<tbody>
-<tr class="odd">
-<td align="left"><p>1</p></td>
-<td align="left"><p>This</p></td>
-<td align="left"><p>is</p></td>
-<td align="left"><p>an</p></td>
-<td align="left"><p>example</p></td>
-<td align="left"><p>sentence</p></td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left"><p>THIS</p></td>
-<td align="left"><p>IS</p></td>
-<td align="left"><p>AN</p></td>
-<td align="left"><p>EXAMPLE</p></td>
-<td align="left"><p>SENTENCE</p></td>
-</tr>
-</tbody>
-</table>
-
-            “this is the translation.”
  
 
 The various questions that are in English constructed using ‘how’ show
@@ -71,30 +47,30 @@ relevant:
 questions. A more suitable translation seems to be something like “what
 kind of word would you use to describe X”:
 
-![](tagalog%20HOW-questions_files/image002.jpg)
+![](Tagalog%20HOW-questions_files/image002.jpg)
 
 *paano* is the interrogative for MANNER-questions (514-515):
 
-![](tagalog%20HOW-questions_files/image004.jpg)
+![](Tagalog%20HOW-questions_files/image004.jpg)
 
-![](tagalog%20HOW-questions_files/image006.jpg)
+![](Tagalog%20HOW-questions_files/image006.jpg)
 
 *gaano* is used for EXTENT-questions, like English *how*+adjective or
 *how*+adverb (515):
 
-![](tagalog%20HOW-questions_files/image008.jpg)
+![](Tagalog%20HOW-questions_files/image008.jpg)
 
 *gaano* is also used for MASS QUANTITY-questions, like English *how
 much* (515):
 
-![](tagalog%20HOW-questions_files/image010.jpg)
+![](Tagalog%20HOW-questions_files/image010.jpg)
 
 *ilan* is the interrogative for COUNT QUANTITY-questions, like English
 *how many* (516):
 
-![](tagalog%20HOW-questions_files/image012.jpg)
+![](Tagalog%20HOW-questions_files/image012.jpg)
 
 *magkano* is also translatable into English as *how much*, but it
 specifically asks for the PRICE of something (516):
 
-![](tagalog%20HOW-questions_files/image014.jpg)
+![](Tagalog%20HOW-questions_files/image014.jpg)
